@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rotation Control</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">Credits</string>
+    <string name="description">
+        Welcome to Rotation Control.
+        Use the checkbox below to send a notification widget 
+        that will help you turn on or off the rotation control.
+    </string>
+	<string name="welcome_text">
+"Welcome to Rotation Control.
+
+By checking the checkbox below, it will place a notification icon in your notification bar.
+
+Subsequently, rotation lock can be enabled or disabled by pulling down notification bar and clicking on the icon.
+
+Unchecking will remove the notification icon."
+	</string>
+	<string name="credits">
+This app was developed by IndicApps and has been released under an open source license. 
+For code and support information, go to:
+
+http://www.sudhirkk.com/indica/rotation-control-app/</string>
+</resources>
